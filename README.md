@@ -2,10 +2,8 @@
 
 
 
-Special thanks to:
+### Special thanks to:
+<p> https://analityk.edu.pl/zbuduj-choinke-z-listy-najwazniejszych-bibliotek-python/?fbclid=IwAR05jfJQdjfSeUblenHaPHj94lshHr4a42RirI8SnrtfVFsg-tm05UIgQa8
 
-https://analityk.edu.pl/zbuduj-choinke-z-listy-najwazniejszych-bibliotek-python/?fbclid=IwAR05jfJQdjfSeUblenHaPHj94lshHr4a42RirI8SnrtfVFsg-tm05UIgQa8
-
-Icons made by Freepik
-from "https://www.flaticon.com/"
-
+### Icons made by Freepik
+<p> from "https://www.flaticon.com/"
